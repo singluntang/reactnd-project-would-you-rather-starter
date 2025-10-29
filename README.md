@@ -4,10 +4,10 @@
 To install linux on windows. please follow the link `https://learn.microsoft.com/en-us/windows/wsl/install`
 
 ## Create A Root Account
-1.	If all your program files are root. You need a root account. For ubuntu OS, 
-    a.	sudo passwd root
-    b.	su – (to login as root)
-2.	install nvm to install nodejs in the root account.
+*	If all your program files are root. You need a root account. For ubuntu OS, 
+    1.	sudo passwd root
+    2.	su – (to login as root)
+*	install nvm to install nodejs in the root account.
 
 
 ## Node version
